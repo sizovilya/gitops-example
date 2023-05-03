@@ -1,0 +1,5 @@
+cassandra: dev
+kafka: dev
+zookeeper: master
+cassandra-pinger: master
+kafka-pinger: STAT-1515
