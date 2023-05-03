@@ -1,0 +1,5 @@
+cassandra: master
+kafka: STAT-777
+zookeeper: master
+cassandra-pinger: master
+kafka-pinger: master
