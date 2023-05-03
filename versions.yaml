@@ -1,0 +1,5 @@
+cassandra: master
+kafka: master
+zookeeper: master
+cassandra-pinger: master
+kafka-pinger: cbf1b9a1be984a9f61b79a05f23b19f66d533537
